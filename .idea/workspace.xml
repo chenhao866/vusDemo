@@ -6,15 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b551c31-9716-4d0a-bc95-ab3031b62765" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/vus09.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/vus08.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/vus08.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/vusDemo.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/vusDemo.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/vusDemo/vus08.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/vusDemo/vus08.jsp" afterDir="false" />
-    </list>
+    <list default="true" id="6b551c31-9716-4d0a-bc95-ab3031b62765" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,34 +45,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/vus03.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/vus09.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="82" column="13" lean-forward="true" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+            <state relative-caret-position="-583">
+              <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
               <folding>
                 <element signature="n#style#0;n#lable#1;n#from#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#lable#3;n#from#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#select#0;n#from#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/vus04.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="65">
-              <caret line="41" column="22" lean-forward="true" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -307,16 +281,15 @@
       <workItem from="1557148452259" duration="612000" />
       <workItem from="1557149092314" duration="860000" />
       <workItem from="1557149981083" duration="2888000" />
-      <workItem from="1557201409348" duration="42161000" />
+      <workItem from="1557201409348" duration="43011000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57065000" />
+    <option name="totallyTimeSpent" value="57915000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14951769" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -458,8 +431,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/vus09.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="82" column="13" lean-forward="true" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        <state relative-caret-position="-583">
+          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
           <folding>
             <element signature="n#style#0;n#lable#1;n#from#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#lable#3;n#from#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
