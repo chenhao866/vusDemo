@@ -13,6 +13,7 @@
         <button onclick="document.getElementById('myiframe').src = 'vus06.jsp'">条件渲染</button>
         <button onclick="document.getElementById('myiframe').src = 'vus07.jsp'">v-for数组、对象数据绑定</button>
         <button onclick="document.getElementById('myiframe').src = 'vus08.jsp'">事件绑定</button>
+        <button onclick="document.getElementById('myiframe').src = 'vus09.jsp'">from表单数据获取</button>
     </div>
 
     <br>
